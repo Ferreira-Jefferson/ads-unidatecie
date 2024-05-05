@@ -1,0 +1,40 @@
+Jefferson Ferreira [285511]
+
+a) O tempo de uso do Whatsapp pelos funcionários da empresa é uma variável. Classifique-as.
+  Resposta:
+    Funcionário: Variável qualitativa nominal 
+    Gênero: Variável qualitativa nominal 
+    Tempo diário de uso do whatsapp: Variável quantitativa discreta
+
+b) Calcule a média de minutos de uso de Whatsapp dos funcionários da empresa.
+  Soma: 330 minutos
+  Média: soma / 5 = 16,5
+  Resposta: 16,5 minutos
+
+c) Obtenha a variância referente ao tempo gasto com Whatsapp pelos funcionários da empresa.
+  Média do tempo gasto com Whatsapp: 16,5
+  Soma do desvio quadratico: 219
+  Variância: 219 / 20 = 10,95
+  Resposta: 10,95
+
+d) Obtenha o desvio padrão referente ao tempo gasto com Whatsapp pelos funcionários da empresa.
+  Variância do tempo gasto com Whatsapp: 10,95
+  Desvio Padrão: √10,95 = 3,309078
+  Resposta: 3,31
+
+e) Qual é a probabilidade do Luciano ter ganho um dos smartfones?
+  Probabilidade no 1º sorteio: 2/20 
+  Probabilidade no 2º sorteio: 1/19
+  Probabilidade Total: 2/20 * 1/19 = 2/380 = 1/190 = 0.00526315789
+  Probabilidade: 0.00526315789 * 100 = 0.52631578947%
+  Resposta: 0,53%
+
+f) Qual é a probabilidade de Raul ter acertado exatamente duas das 5 questões sobre a empresa?
+  k = 2
+  p = 1/5
+  1-p = 4/5
+  P(X = 2) = (5! / 2! * (5-2)!) * (0,2^2) * (0,8^3)
+  P(X = 2) = 10 * 0,008 * 0,512
+  P(x = 2) = 0,04096%
+  P(x = 2) = 4,10%
+  Resposta: 4,10%
